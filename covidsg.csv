@@ -1,4 +1,69 @@
 case,date,type,race,age,gender,hospital
+#1114,4/3/20,Local,Singapore Citizen,28,M,CGH
+#1113,4/3/20,Local,Bangladeshi (Singapore Work Pass holder),42,M,NTFGH
+#1112,4/3/20,Local,Burmese (Long Term Pass holder),32,M,KTPH
+#1111,4/3/20,Local,Burmese (Long Term Pass holder),29,M,KTPH
+#1110,4/3/20,Local,Bangladeshi (Long Term Pass holder),27,M,KTPH
+#1109,4/3/20,Imported,Indonesian (Long Term Pass holder),72,M,AH
+#1108,4/3/20,Local,Bangladeshi (Long Term Pass holder),24,M,KTPH
+#1107,4/3/20,Local,Indian (Long Term Pass holder),23,M,KTPH
+#1106,4/3/20,Local,Bangladeshi (Long Term Pass holder),27,M,NCID
+#1105,4/3/20,Local,Singapore Permanent Resident,55,F,NCID
+#1104,4/3/20,Local,Bangladeshi (Long Term Pass holder),23,M,NCID
+#1103,4/3/20,Local,Singapore Citizen,42,F,NCID
+#1102,4/3/20,Local,Singapore Citizen,30,M,NCID
+#1101,4/3/20,Local,Bangladeshi (Singapore Work Pass holder),32,M,NCID
+#1100,4/3/20,Local,Singapore Permanent Resident,39,M,NCID
+#1099,4/3/20,Imported,Singapore Citizen,54,M,NCID
+#1098,4/3/20,Local,Singapore Citizen,35,F,NCID
+#1097,4/3/20,Local,UK (Long Term Pass holder),28,F,NCID
+#1096,4/3/20,Local,Malaysian (Singapore Work Pass holder),40,F,NCID
+#1095,4/3/20,Local,Singapore Permanent Resident,61,M,NCID
+#1094,4/3/20,Local,Indian (Singapore Work Pass holder),24,M,NCID
+#1093,4/3/20,Local,Singapore Permanent Resident,40,F,NCID
+#1092,4/3/20,Imported,Singapore Citizen,61,M,KTPH
+#1091,4/3/20,Local,Singapore Citizen,48,F,NCID
+#1090,4/2/20,Local,Singapore Citizen,73,M,NCID
+#1089,4/3/20,Local,Bangladeshi (Singapore Work Pass holder),43,M,NCID
+#1088,4/3/20,Imported,Singapore Citizen,23,M,AH
+#1087,4/2/20,Local,Singapore Citizen,18,M,NUH
+#1086,4/3/20,Local,Filipino (Singapore Work Pass holder),40,F,NUH
+#1085,4/3/20,Imported,Singapore Citizen,31,M,SKH
+#1084,4/3/20,Local,Indian (Singapore Work Pass holder),34,M,SKH
+#1083,4/3/20,Local,Chinese (Singapore Work Pass holder),49,M,SKH
+#1082,4/2/20,Local,Singapore Citizen,38,M,NCID
+#1081,4/2/20,Local,Singapore Citizen,62,F,NCID
+#1080,4/3/20,Local,Singapore Citizen,85,F,NTFGH
+#1079,4/3/20,Local,Bangladeshi (Long Term Pass holder),31,M,NTFGH
+#1078,4/3/20,Local,Bangladeshi (Long Term Pass holder),44,M,NCID
+#1077,4/2/20,Local,Indian (Long Term Pass holder),33,M,NCID
+#1076,4/2/20,Local,Singapore Permanent Resident,54,M,NCID
+#1075,4/2/20,Local,Filipino (Singapore Work Pass holder),67,F,NCID
+#1074,4/2/20,Local,Indian (Long Term Pass holder),41,M,SKH
+#1073,4/2/20,Local,Singapore Citizen,26,F,KTPH
+#1072,4/2/20,Local,Bangladeshi (Long Term Pass holder),28,M,NTFGH
+#1071,4/2/20,Local,Singapore Citizen,84,F,KTPH
+#1070,4/2/20,Local,Bangladeshi (Singapore Work Pass holder),34,M,NCID
+#1069,4/2/20,Local,Singapore Citizen,53,M,NUH
+#1068,4/2/20,Local,Bangladeshi (Long Term Pass holder),29,M,NTFGH
+#1067,4/2/20,Local,Singapore Citizen,72,M,NUH
+#1066,4/2/20,Local,Singapore Citizen,69,M,NCID
+#1065,4/2/20,Local,Filipino (Singapore Work Pass holder),36,M,NCID
+#1064,4/2/20,Local,Singapore Citizen,47,F,CGH
+#1063,4/2/20,Local,Singapore Citizen,63,M,KTPH
+#1062,4/2/20,Local,Indian (Long Term Pass holder),28,M,SGH
+#1061,4/2/20,Local,Bangladeshi (Long Term Pass holder),37,M,NCID
+#1060,4/2/20,Imported,Singapore Citizen,66,F,NCID
+#1059,4/2/20,Imported,Singapore Citizen,5,M,KKH
+#1058,4/2/20,Imported,Singapore Citizen,7,M,KKH
+#1057,4/2/20,Local,Dutch (Long Term Pass holder),46,F,NCID
+#1056,4/2/20,Local,Bangladeshi,40,M,NCID
+#1055,4/2/20,Local,Singapore Citizen,61,M,NCID
+#1054,4/2/20,Local,Indian (Long Term Pass holder),29,M,NCID
+#1053,4/2/20,Local,Singapore Citizen,47,M,NCID
+#1052,4/2/20,Local,Singapore Citizen,55,F,SGH
+#1051,4/2/20,Imported,Singapore Citizen,35,M,KTPH
+#1050,4/2/20,Local,Chinese (Singapore Work Pass holder),56,M,NCID
 #1049,4/2/20,Local,Indian (Long Term Pass holder),30,M,NCID
 #1048,4/2/20,Imported,Singapore Citizen,73,F,NCID
 #1047,4/2/20,Local,Indian (Long Term Pass holder),25,M,NCID
@@ -528,7 +593,7 @@ case,date,type,race,age,gender,hospital
 #523,3/23/2020,Imported,Filipino (Long Term Pass Holder),9,M,KKH
 #522,3/23/2020,Imported,Singapore Permanent Resident,45,F,NCID
 #521,3/23/2020,Local,Singapore Citizen,37,F,CGH
-#520,3/23/2020,Local,Singapore Citizen,71,M,NIL
+#520,3/23/2020,Local,Singapore Citizen,71,M,0
 #519,3/23/2020,Imported,German,44,M,SGH
 #518,3/23/2020,Imported,Australian (Long Term Pass Holder),46,M,SGH
 #517,3/23/2020,Imported,Singapore Citizen,37,M,NCID
@@ -788,7 +853,7 @@ case,date,type,race,age,gender,hospital
 #263,3/17/2020,Imported,Singapore Citizen,52,F,NCID
 #262,3/17/2020,Imported,Indonesian,20,F,NCID
 #261,3/17/2020,Imported,American (Singapore Work Pass Holder),30,M,NCID
-#260,3/17/2020,Local,Singapore Permanent Resident,48,F,FPH
+#260,3/17/2020,Local,Singapore Permanent Resident,48,F,Farrer Park Hospital
 #259,3/17/2020,Imported,Singapore Citizen,30,F,NCID
 #258,3/17/2020,Imported,Indian,47,M,NCID
 #257,3/17/2020,Imported,French (Singapore Long Term Pass holder),19,M,NUH
@@ -866,8 +931,8 @@ case,date,type,race,age,gender,hospital
 #185,3/12/20,Local,Singapore Citizen,34,M,NCID
 #184,3/12/20,Local,Filipino (Singapore Work Pass Holder),35,M,NCID
 #183,3/12/20,Imported,Singapore Citizen,29,M,NCID
-#182,3/12/20,Imported,Indonesian,76,F,Gleneagles
-#181,3/12/20,Imported,Indonesian,83,M,Gleneagles
+#182,3/12/20,Imported,Indonesian,76,F,Gleneagles Hospital
+#181,3/12/20,Imported,Indonesian,83,M,Gleneagles Hospital
 #180,3/12/20,Imported,Singapore Citizen,71,M,NCID
 #179,3/11/20,Local,Singapore Citizen,66,F,NUH
 #178,3/11/20,Imported,Filipino (Singapore Work Pass holder),37,M,NTFGH
